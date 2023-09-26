@@ -1,0 +1,142 @@
+
+body, html {
+    height: 100%;
+}
+.headerbackground{
+  background-color:#787878;
+}
+.hero-image {
+    background-image: url("assets/images/aidan-hancock-8RU4OuA6Yug-unsplash.png");
+    height: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .hero-text {
+    text-align: left;
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  .headingtextcolor {
+    color: #141414;
+  }
+
+
+  .hero-text button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 10px 25px;
+    color: white;
+    background-color: #10C9C3;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .hero-text button:hover {
+    background-color: #3f58e6;
+    color: white;
+  }
+
+
+.progressbartext {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 17px;
+  color: #141414;
+}
+.progresschartbackground {
+  background-color: #F5F5F5
+}
+.progresssectionimage {
+  background-image: url("assets/images/stil-sHGyGynyD5Y-unsplash.png");
+}
+.progress-bar {
+  background-color: #10C9C3
+}
+
+.progress{
+  height: 5px;
+}
+.statisticschart {
+  background-color:#10C9C3
+}
+
+.imagesgridrow {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.imagesgrid {
+  flex: 50%;
+  padding: 0px;
+}
+
+.imagesgrid img {
+  margin-top: 0px;
+  vertical-align: middle;
+}
+.px-3 {
+  float: right;
+}
+
+.statstext {
+  font-family: 'Nunito Sans', sans-serif;
+  color: white;
+}
+.divider {
+  background-color: #F5F5F5;
+}
+.servicessection {
+  background-color: white;
+}
+.servicestitletext {
+  font-size: 30px;
+  font-family: 'Nunito Sans', sans-serif;
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+.hopkinsquote {
+  padding-top: 150px;
+  padding-bottom: 40px;
+  font-size: 30px;
+  font-family: 'Nunito Sans', sans-serif;
+  text-align: center;
+  color: white;
+}
+.michaelhopkins {
+  padding-top: 2px;
+  padding-bottom: 70px;
+  font-size: 30px;
+  font-family: 'Nunito Sans', sans-serif;
+  text-align: center;
+  color: white;
+}
+.quotebackground {
+  background-color: #10C9C3
+}
+.servicespadding {
+  padding-bottom: 100px;
+}
+
+.formbutton {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: white;
+  background-color: #10C9C3;
+  text-align: center;
+  cursor: pointer;
+}
+.professionalskillspaddingtop {
+  padding-top: 90px;
+}
+.logosbackground{
+  background-color:white;
+}
