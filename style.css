@@ -140,3 +140,14 @@ body, html {
 .logosbackground{
   background-color:white;
 }
+.footerrow {
+    background-color: #141414;
+}
+.footerboldtext {
+    font-family: 'Nunito Sans', sans-serif;
+    color: #FFFFFF;
+}
+.footertext {
+    font-family: 'Nunito Sans', sans-serif;
+    color: #787878;
+}
